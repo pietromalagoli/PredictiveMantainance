@@ -1,0 +1,111 @@
+Full correlations between S125 and S41 of machine SW-065:
+
+Pearson Correlation:            S41      S125
+S41   1.000000  0.554828
+S125  0.554828  1.000000
+
+Spearman Correlation:            S41      S125
+S41   1.000000  0.583598
+S125  0.583598  1.000000
+
+Kendall Correlation:            S41      S125
+S41   1.000000  0.468981
+S125  0.468981  1.000000
+
+Full correlations between S181 and S41 of machine SW-065:
+
+Pearson Correlation:            S41      S181
+S41   1.000000  0.582359
+S181  0.582359  1.000000
+
+Spearman Correlation:            S41      S181
+S41   1.000000  0.607087
+S181  0.607087  1.000000
+
+Kendall Correlation:            S41      S181
+S41   1.000000  0.486966
+S181  0.486966  1.000000
+
+Full correlations between S125 and S41 of machine SW-088:
+
+Pearson Correlation:            S41      S125
+S41   1.000000 -0.523576
+S125 -0.523576  1.000000
+
+Spearman Correlation:            S41      S125
+S41   1.000000 -0.522972
+S125 -0.522972  1.000000
+
+Kendall Correlation:            S41      S125
+S41   1.000000 -0.415214
+S125 -0.415214  1.000000
+
+Full correlations between S181 and S41 of machine SW-088:
+
+Pearson Correlation:            S41      S181
+S41   1.000000 -0.235379
+S181 -0.235379  1.000000
+
+Spearman Correlation:            S41      S181
+S41   1.000000 -0.205716
+S181 -0.205716  1.000000
+
+Kendall Correlation:           S41     S181
+S41   1.00000 -0.16674
+S181 -0.16674  1.00000
+
+Full correlations between S125 and S41 of machine SW-106:
+
+Pearson Correlation:            S41      S125
+S41   1.000000 -0.263049
+S125 -0.263049  1.000000
+
+Spearman Correlation:            S41      S125
+S41   1.000000 -0.263051
+S125 -0.263051  1.000000
+
+Kendall Correlation:            S41      S125
+S41   1.000000 -0.221489
+S125 -0.221489  1.000000
+
+Full correlations between S181 and S41 of machine SW-106:
+
+Pearson Correlation:            S41      S181
+S41   1.000000 -0.258935
+S181 -0.258935  1.000000
+
+Spearman Correlation:            S41      S181
+S41   1.000000 -0.258607
+S181 -0.258607  1.000000
+
+Kendall Correlation:            S41      S181
+S41   1.000000 -0.219502
+S181 -0.219502  1.000000
+
+Full correlations between S125 and S41 of machine SW-115:
+
+Pearson Correlation:            S41      S125
+S41   1.000000 -0.254451
+S125 -0.254451  1.000000
+
+Spearman Correlation:            S41      S125
+S41   1.000000 -0.234384
+S125 -0.234384  1.000000
+
+Kendall Correlation:            S41      S125
+S41   1.000000 -0.181271
+S125 -0.181271  1.000000
+
+Full correlations between S181 and S41 of machine SW-115:
+
+Pearson Correlation:            S41      S181
+S41   1.000000 -0.272938
+S181 -0.272938  1.000000
+
+Spearman Correlation:            S41      S181
+S41   1.000000 -0.251762
+S181 -0.251762  1.000000
+
+Kendall Correlation:           S41     S181
+S41   1.00000 -0.19513
+S181 -0.19513  1.00000

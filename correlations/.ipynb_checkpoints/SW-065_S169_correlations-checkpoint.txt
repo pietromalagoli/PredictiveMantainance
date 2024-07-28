@@ -1,0 +1,208 @@
+Correlation coefficients for metric S10
+
+Pearson, Spearman and Kendall total correlations:-0.0011377776072802636 2.5832227625046906e-05 2.3024204330035796e-05
+
+Pearson coefficients: -0.07083655011203975
+Spearman coefficients: -0.022042287067284005
+Kendall coefficients: -0.020214513615876274
+
+Correlation coefficients for metric S33
+
+Pearson, Spearman and Kendall total correlations:6.644871488636768e-06 6.6448714881854185e-06 6.6448714881854185e-06
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S39
+
+Pearson, Spearman and Kendall total correlations:0.0005780325781342085 -0.00023146767686721046 -0.00019181761351784617
+
+Pearson coefficients: -0.12260986453439532
+Spearman coefficients: -0.12121847530148401
+Kendall coefficients: -0.10406118047460328
+
+Correlation coefficients for metric S40
+
+Pearson, Spearman and Kendall total correlations:-0.0015938345876256605 -0.002273120847567413 -0.001881189283822359
+
+Pearson coefficients: -0.1170899561741621
+Spearman coefficients: -0.1776750378600698
+Kendall coefficients: -0.1556997888323046
+
+Correlation coefficients for metric S41
+
+Pearson, Spearman and Kendall total correlations:0.0008190359428804213 0.0009474845106269904 0.0007751018137134773
+
+Pearson coefficients: 0.12514377283076636
+Spearman coefficients: 0.1445195338178415
+Kendall coefficients: 0.12225377711920003
+
+Correlation coefficients for metric S5
+
+Pearson, Spearman and Kendall total correlations:0.0005557307542441216 0.001207557164419829 0.0011308753267134468
+
+Pearson coefficients: -2.5801957652496e-17
+Spearman coefficients: 0.0
+Kendall coefficients: 0.0
+
+Correlation coefficients for metric S53
+
+Pearson, Spearman and Kendall total correlations:-8.91505430538729e-06 -9.39729860058328e-06 -9.397282989765529e-06
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S130
+
+Pearson, Spearman and Kendall total correlations:0.0007182334974369972 0.0014449597841140038 0.0014430885147793083
+
+Pearson coefficients: -2.5801957652496e-17
+Spearman coefficients: 0.0
+Kendall coefficients: 0.0
+
+Correlation coefficients for metric S171
+
+Pearson, Spearman and Kendall total correlations:0.0028897555002904856 0.0028895635635854677 0.002888797067246326
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S172
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S173
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S174
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S179
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S183
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S204
+
+Pearson, Spearman and Kendall total correlations:-0.0045918708785238046 -0.0045677521248564555 -0.004428260335118514
+
+Pearson coefficients: -0.2020272340130155
+Spearman coefficients: -0.17197944708482363
+Kendall coefficients: -0.16464992819272103
+
+Correlation coefficients for metric S205
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S206
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S157
+
+Pearson, Spearman and Kendall total correlations:0.002062919853095779 0.003153758825659721 0.002625563515579958
+
+Pearson coefficients: -0.03985391641671878
+Spearman coefficients: 0.0
+Kendall coefficients: 0.0
+
+Correlation coefficients for metric S158
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S159
+
+Pearson, Spearman and Kendall total correlations:0.002276866884508472 0.0013231396968233751 0.001087194007226182
+
+Pearson coefficients: 0.03614288195128833
+Spearman coefficients: 0.0
+Kendall coefficients: 0.0
+
+Correlation coefficients for metric S163
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S164
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S165
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S178
+
+Pearson, Spearman and Kendall total correlations:0.00038374417462077226 0.0013885833480440464 0.0012674089247211324
+
+Pearson coefficients: -0.02266483623401685
+Spearman coefficients: 0.0
+Kendall coefficients: 0.0
+
+Correlation coefficients for metric S180
+
+Pearson, Spearman and Kendall total correlations:nan nan nan
+
+Pearson coefficients: nan
+Spearman coefficients: nan
+Kendall coefficients: nan
+
+Correlation coefficients for metric S166
+
+Pearson, Spearman and Kendall total correlations:0.0017635888247339142 0.0009981929586137567 0.0008168743876403144
+
+Pearson coefficients: 0.01892083232400848
+Spearman coefficients: -0.003604514680443307
+Kendall coefficients: -0.003159908616764186
+
